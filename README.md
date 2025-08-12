@@ -21,6 +21,6 @@ This profile documents my **DSA learning journey**, my **solutions**, and the th
 ---
 
 ## 📊 My LeetCode Stats
-![LeetCode Stats]![LeetCode Stats](https://leetcard.jacoblin.cool/arjunpangunuri?theme=catppuccinMocha&font=Poppins&ext=heatmap))
+![LeetCode Stats](https://leetcard.jacoblin.cool/arjunpangunuri?theme=catppuccinMocha&font=Poppins&ext=heatmap))
 
 ---
