@@ -1,7 +1,7 @@
-# 🧩 LeetCode DSA Profile
+# 🧩 LeetCode DSA/SQL Profile
 
 Hi there! 👋  
-I’m a passionate problem solver who enjoys tackling algorithmic challenges and sharpening my Data Structures & Algorithms (DSA) skills through **LeetCode**.  
+I’m a passionate problem solver who enjoys tackling algorithmic challenges and sharpening my Data Structures & Algorithms (DSA) and SQL skills through **LeetCode**.  
 This profile documents my **DSA learning journey**, my **solutions**, and the thought process behind each problem.
 
 ---
