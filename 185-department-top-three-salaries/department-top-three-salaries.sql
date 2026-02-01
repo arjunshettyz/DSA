@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 select d.name as department, e.name as employee, e.salary 
 from employee as e 
 inner join department as d 
